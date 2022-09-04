@@ -1,0 +1,23 @@
+header {
+    background-color: #DCDCDC;
+}
+h1 {
+    text-align: center;
+    margin-top: 61px;
+}
+.row-background p {
+    text-align: center;
+}
+.row-background {
+   background-color: #d3d3d3;
+   height: 300px;
+}
+.row-background a {
+    margin-top: 40px ;
+ }
+ .row {
+    margin-top: 50px ;
+ }
+ .card-body p {
+    text-align: justify;
+ }
